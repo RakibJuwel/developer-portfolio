@@ -11,6 +11,8 @@ h1{
 section{
     display: flex;
     padding: 5% ;
+margin-bottom: 1%;
+    
 }
 .hale{
     width: 50%;
@@ -30,5 +32,9 @@ section{
 .background-image{
     background-image: url(images/bg.jpg);
     width: 100%;
-   
+}
+.big{
+    background-image: url(images/bg.jpg);
+    width: 100%;
+    
 }
